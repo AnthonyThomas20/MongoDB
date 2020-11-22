@@ -18,3 +18,5 @@ Make changes to mongoimport command based on the above copied command as follows
 Run the modified command in the terminal and ensure that the csv file is in the same destination.
 
 You should get the following output.
+
+![image](https://user-images.githubusercontent.com/54772502/99898981-d8aafd80-2ccb-11eb-8b9d-44bec6ee3c96.png)
