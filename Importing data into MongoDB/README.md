@@ -20,3 +20,5 @@ Run the modified command in the terminal and ensure that the csv file is in the 
 You should get the following output.
 
 ![image](https://user-images.githubusercontent.com/54772502/99898981-d8aafd80-2ccb-11eb-8b9d-44bec6ee3c96.png)
+
+*Note*: The dataset is compressed into a zip file. Simply download and extract it.
