@@ -14,3 +14,5 @@ It will take some time for the cluster to created. Meanwhile go to Network Acces
 Under IP Access List, click on ADD IP ADDRESS button. Click on ALLOW ACCESS FROM ANYWHERE and then click CONFIRM.
 
 **Step 4**: Click on the Clusters tab under Data Storage on the left hand side to view the created cluster.
+
+*Now go to MongoDB installation on Windows folder in this repository.*
