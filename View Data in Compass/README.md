@@ -10,3 +10,9 @@ mongodb+srv://analytics:<password>@mflix.dfpey.mongodb.net/<dbname>?retryWrites=
 7. Paste the above modified command into the given dialog box and click Connect. 
 8. Four databases are loaded where mflix containing our data is one of them.
   
+It will look something like this:
+
+![image](https://user-images.githubusercontent.com/54772502/99899769-ea8f9f00-2cd1-11eb-8748-97948bdc6626.png)
+
+Clicking on mfix -> movies_initial we can observe our data in Compass.
+
