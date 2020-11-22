@@ -1,0 +1,10 @@
+Commands for importing data into MongoDB
+
+Copied command:
+mongo "mongodb://mflix-shard-00-00.dfpey.mongodb.net:27017,mflix-shard-00-01.dfpey.mongodb.net:27017,mflix-shard-00-02.dfpey.mongodb.net:27017/<dbname>?replicaSet=atlas-ku9fmk-shard-0" --ssl --authenticationDatabase admin --username analytics --password <password>
+
+mongoimport command template:
+mongoimport --type csv --headerline --db mflix --collection movies_initial --host "<CLUSTER>/<SEED_LIST>" --authenticationDatabase admin --ssl --username analytics --password analytics-password --file movies_initial.csv
+
+After changes:
+mongoimport --type csv --headerline --db mflix --collection movies_initial --host "atlas-ku9fmk-shard-0/mflix-shard-00-00.dfpey.mongodb.net:27017,mflix-shard-00-01.dfpey.mongodb.net:27017,mflix-shard-00-02.dfpey.mongodb.net:27017" --authenticationDatabase admin --ssl --username analytics --password analytics-password --file movies_initial.csv
