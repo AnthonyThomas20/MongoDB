@@ -23,7 +23,8 @@ MongoDB works on concept of collection and document.
 2. Documents have dynamic schema. Dynamic schema means that documents in the same collection do not need to have the same set of fields or structure, 
 and common fields in a collection's documents may hold different types of data.
 
-**sample Document**
+**Sample Document**
 
 Following example shows the document structure of a blog site, which is simply a comma separated key value pair.
 
+![image](https://user-images.githubusercontent.com/54772502/99897939-b1e8c900-2cc3-11eb-92d3-8c73f1b553bf.png)
