@@ -22,3 +22,5 @@ You should get the following output.
 ![image](https://user-images.githubusercontent.com/54772502/99898981-d8aafd80-2ccb-11eb-8b9d-44bec6ee3c96.png)
 
 *Note*: The dataset is compressed into a zip file. Simply download and extract it.
+
+*Now go to View Data in Compass.*
