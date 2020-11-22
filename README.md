@@ -30,3 +30,5 @@ Following example shows the document structure of a blog site, which is simply a
 ![image](https://user-images.githubusercontent.com/54772502/99897939-b1e8c900-2cc3-11eb-92d3-8c73f1b553bf.png)
 
 *Reference* - https://www.tutorialspoint.com/mongodb/mongodb_overview.htm
+
+*Please start navigating from Atlas Free-Tier Cluster in this repository.*
