@@ -8,3 +8,5 @@ So, I switched to version 3.4.24 which worked completely fine for me. Also do se
 
 Also add the mongoDB path in the system environment variables which may look like:- C:\Program Files\MongoDB\Server\3.4\bin and move this path to the top. 
 Type mongodb --version in the command line to verify the installation.
+
+*Next go to Importing data into MongoDB in this repo.*
