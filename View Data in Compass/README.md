@@ -17,3 +17,5 @@ It will look something like this:
 Clicking on mfix -> movies_initial we can observe our data in Compass.
 
 ![image](https://user-images.githubusercontent.com/54772502/99899864-5eca4280-2cd2-11eb-85d3-4a0380dcb1a9.png)
+
+*Go to Connecting to Atlas folder.*
