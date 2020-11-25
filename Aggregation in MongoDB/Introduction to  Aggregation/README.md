@@ -9,3 +9,4 @@ And the inputs and outputs for all stages are documents,i.e. a stream of documen
 5. Each stage takes a stream of input documents, one at a time, processes each document one at a time, and produces an output stream of documents. Again, one at a time. 
 6. And finally, at the end of the pipeline, output is produced that we can then do something with in our application. 
 
+![aggreg](https://user-images.githubusercontent.com/54772502/100256281-9eab5700-2f6a-11eb-8d9c-e921519699c8.png)
